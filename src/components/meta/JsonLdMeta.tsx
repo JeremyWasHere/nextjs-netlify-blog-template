@@ -23,6 +23,7 @@ export default function JsonLdMeta({
   description,
 }: Props) {
   return (
+    <head></head>
     // <Head>
     //   <script
     //     {...jsonLdScriptProps<BlogPosting>({

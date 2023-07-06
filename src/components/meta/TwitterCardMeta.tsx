@@ -8,6 +8,7 @@ type Props = {
 };
 export default function TwitterCardMeta({ url, title, description }: Props) {
   return (
+    <head></head>
     // <Head>
     //   <meta property="twitter:card" content="summary_large_image" />
     //   <meta property="twitter:site" content={config.twitter_account} />

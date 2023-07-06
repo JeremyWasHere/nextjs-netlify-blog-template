@@ -14,6 +14,7 @@ export default function OpenGraphMeta({
   image,
 }: Props) {
   return (
+    <head></head>
     // <Head>
     //   <meta property="og:site_name" content={config.site_title} />
     //   <meta property="og:url" content={config.base_url + url} />

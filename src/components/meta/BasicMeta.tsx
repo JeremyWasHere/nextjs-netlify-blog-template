@@ -16,6 +16,7 @@ export default function BasicMeta({
   url,
 }: Props) {
   return (
+    <head></head>
     // <Head>
     //   <title>
     //     {title ? [title, config.site_title].join(" | ") : config.site_title}
